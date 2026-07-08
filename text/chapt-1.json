@@ -1,0 +1,72 @@
+{
+    "chapter_num": 1,
+    "chapter_name": "Cells: The Fundamental Units of Life",
+    "cards": [
+        {
+            "id":"",
+            "question":"",
+            "answer":""
+        },
+        {
+            "id": 1,
+            "question" : "All living things (or organisms) are built from?",
+            "answer" : "Cells"
+        },
+        {
+            "id": 2,
+            "question" : "In all organisms,genetic information - in the form of genes - is carried in?",
+            "answer" : "DNA molecules"
+        },
+        {
+            "id": 3,
+            "question": "in every cell, the long DNA polymer chains are made from the same set of four monomers, strung together in different sequences like the letters of an alphabet to convey information. Is called?",
+            "answer": "nucleotides"
+        },
+        {
+            "id": 4,
+            "question": "In every cell, the information encoded in the DNA is read out, or transcribed, into a chemically related set of polymers",
+            "answer": "RNA"
+        },
+        {
+            "id": 5,
+            "question":"A subset of RNA molecules is in turn translated into yet another type of polymer called?",
+            "answer":"Protein"
+        },
+        {
+            "id": 6,
+            "question": "What is the the central dogma?",
+            "answer": "This is the flow of information - from DNA to RNA to protein - and is so fundamental to life"
+        },
+        {
+            "id": 7,
+            "question": "The appearance and behavior of a cell are dictated largely by?",
+            "answer": "It's Protein molecules"
+        },
+        {
+            "id": 8,
+            "question": "Proteins are built from amino acids, and all organisms use the same set of 20 amino acids to make their proteins. True or False",
+            "answer": "True"
+        },
+        {
+            "id": 9,
+            "question": "What are viruses?",
+            "answer": "are compact packages of genetic information - in the form of DNA or RNA - encased in protein but they have no ability to reproduce themselves by their own efforts."
+        },
+        {
+            "id": 10,
+            "question": "What are Mutations",
+            "answer": "Mutations are mistakes in the DNA that change the genetic plan from the previous generation."
+        },
+        {
+            "id":11,
+            "question": "What is evolution?",
+            "answer": "The process by which living species become gradually modified and adapted to their environment in more and more sophisticated ways"
+        },
+        { 
+            "id": 12,
+            "question": "What is a cell's genome?",
+            "answer": "It is the entire sequence of nucleotides in an organism's DNA - provides a genetic program that instructs the cell how to behave."
+
+        }
+    ] 
+}
