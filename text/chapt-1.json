@@ -3,11 +3,6 @@
     "chapter_name": "Cells: The Fundamental Units of Life",
     "cards": [
         {
-            "id":"",
-            "question":"",
-            "answer":""
-        },
-        {
             "id": 1,
             "question" : "All living things (or organisms) are built from?",
             "answer" : "Cells"
@@ -58,7 +53,7 @@
             "answer": "Mutations are mistakes in the DNA that change the genetic plan from the previous generation."
         },
         {
-            "id":11,
+            "id": 11,
             "question": "What is evolution?",
             "answer": "The process by which living species become gradually modified and adapted to their environment in more and more sophisticated ways"
         },
@@ -67,6 +62,152 @@
             "question": "What is a cell's genome?",
             "answer": "It is the entire sequence of nucleotides in an organism's DNA - provides a genetic program that instructs the cell how to behave."
 
+        },
+        {
+            "id": 14,
+            "question":"Why are the internal Structure of cells difficult to see under a microscope?",
+            "answer":"They are colorless"
+        },
+        {
+            "id": 15,
+            "question": "What two ways can you view the colorless internal structure of cells?",
+            "answer": "1. By staining them with colored dyes that bind to specific cellular components. 2. By using a technique called phase-contrast microscopy, which enhances the contrast of transparent specimens."
+        },
+        {
+            "id": 16,
+            "question": "What surrounds the nucleus and fills the interior of the cell?",
+            "answer": "Cytoplasm"
+        },
+        {
+            "id": 17,
+            "question":"The membrane that separates the interior of the cell from its external environment is called?",
+            "answer":"Plasma membrane"
+        },
+        {
+            "id": 18,
+            "question": "What separates the organelles from the cytoplasm and from one another?",
+            "answer": "Internal membranes"
+        },
+        {
+            "id": 19,
+            "question": "List the different types of microscopes used to study cells?",
+            "answer": "Light microscope (interference-contrast, phase-contrast & bright-field), Transmission Electron microscope, Scanning Electron microscope, Fluorescence microscope, Confocal microscope"
+        },
+        {
+            "id": 20,
+            "question": "What are the two main types of cells?",
+            "answer": "The two main types of cells are prokaryotic cells and eukaryotic cells."
+        },
+        {
+            "id": 21,
+            "question": "What is a Prokaryotic cell?",
+            "answer": "A Prokaryotic cell is a type of cell that lacks a membrane-bound nucleus and other membrane-bound organelles."
+        },
+        {
+            "id": 22,
+            "question": "What is a Eukaryotic cell?",
+            "answer": "A Eukaryotic cell is a type of cell that has a membrane-bound nucleus and other membrane-bound organelles."
+        },
+        {
+            "id": 23,
+            "question": "What are the shapes of prokaryotic cells?",
+            "answer": "Prokaryotic cells have three main shapes: cocci (spherical), bacilli (rod-shaped), and spirilla (spiral-shaped)."
+        },
+        {
+            "id": 24,
+            "question": "What is the size range of prokaryotic cells?",
+            "answer": "Prokaryotic cells are typically smaller than eukaryotic cells, ranging from about 0.1 to 5 micrometers in diameter."
+        },
+        {
+            "id": 25,
+            "question": "What is the size range of eukaryotic cells?",
+            "answer": "Eukaryotic cells are generally larger than prokaryotic cells, ranging from about 10 to 100 micrometers in diameter."
+        },
+        {
+            "id": 26,
+            "question": "In 11 hours, by repeated divisions, a single prokaryote can give rise to more than 8 billion progeny. True or False?",
+            "answer": "True"
+        },
+        {
+            "id": 27,
+            "question": "Prokaryotes are divided into two major groups, what are they?",
+            "answer": "Bacteria and Archaea"
+        },
+        {
+            "id": 28,
+            "question": "What is a cell's Nucleus?",
+            "answer": "The nucleus is a membrane-bound organelle that contains the cell's genetic material (DNA) and controls the cell's growth, metabolism, and reproduction."
+        },
+        {
+            "id": 29,
+            "question": "Where is the DNA located in a prokaryotic cell?",
+            "answer": "In a prokaryotic cell, the DNA is located in the nucleoid, which is an irregularly-shaped region within the cell that is not membrane-bound."
+        },
+        {
+            "id": 30,
+            "question": "Where is the DNA located in a eukaryotic cell Nucleus?",
+            "answer": "In a eukaryotic cell, the DNA is located in the nucleus, organized into structures called chromosomes."
+        },
+        {
+            "id": 31,
+            "question": "What is function of the mitochondria?",
+            "answer": "The mitochondria are membrane-bound organelles that generate most of the cell's supply of adenosine triphosphate (ATP), which is used as a source of chemical energy. This is called cellular respiration."
+        },
+        {
+            "id": 32,
+            "question": "What is the function of the chloroplasts?",
+            "answer": "Chloroplasts are membrane-bound organelles found in plant cells and some algae that conduct photosynthesis, converting light energy into chemical energy stored in glucose."
+        },
+        {
+            "id": 33,
+            "question": "What is the function of the endoplasmic reticulum (ER)?",
+            "answer": "The endoplasmic reticulum (ER) is a network of membranes within the cell that is involved in the synthesis, folding, modification, and transport of proteins and lipids. It comes in two forms: rough ER (with ribosomes) and smooth ER (without ribosomes)."
+        },
+        {
+            "id": 34,
+            "question": "What is the function of the Golgi apparatus?",
+            "answer": "The Golgi apparatus is a membrane-bound organelle that modifies, sorts, and packages proteins and lipids for secretion or delivery to other organelles."
+        },
+        {
+            "id": 35,
+            "question": "What is the function of lysosomes?",
+            "answer": "Lysosomes are membrane-bound organelles that contain digestive enzymes to break down waste materials, cellular debris, and foreign substances within the cell."
+        },
+        {
+            "id": 36,
+            "question": "What is the function of peroxisomes?",
+            "answer": "Peroxisomes are small, membrane-bound organelles that contain enzymes for the breakdown of fatty acids and the detoxification of harmful substances."
+        },
+        {
+            "id": 37,
+            "question": "What is the function of the cytoskeleton?",
+            "answer": "The cytoskeleton is a network of protein filaments and tubules that provides structural support, maintains cell shape, facilitates intracellular transport, and enables cell movement."
+        },
+        {
+            "id": 38,
+            "question": "What are ribosomes and what is their function?",
+            "answer": "Ribosomes are small, non-membrane-bound organelles that are responsible for protein synthesis. They can be found floating freely in the cytoplasm or attached to the rough endoplasmic reticulum."
+        },
+        {
+            "id": 39,
+            "question": "What is endocytosis and exocytosis?",
+            "answer": "Endocytosis is the process by which cells engulf external substances, bringing them into the cell in vesicles. Exocytosis is the process by which cells expel materials in vesicles to the outside of the cell."
+        },
+        {
+            "id": 40,
+            "question": "What is the function of the Cytosol?",
+            "answer": "The cytosol is the fluid component of the cytoplasm, in which organelles, proteins, and other cell structures are suspended. It plays a key role in cellular processes such as signal transduction, metabolism, and the transport of molecules within the cell."
+        },
+        {
+            "id": 41,
+            "question": "What is the three type of Cytoskeleton protein?",
+            "answer": "The three types of cytoskeleton proteins are microfilaments, intermediate filaments, and microtubules. Microfilaments are involved in cell movement and shape, intermediate filaments provide mechanical support, and microtubules are responsible for intracellular transport and cell division."
+        },
+        {
+            "id": 42,
+            "question": "What are protozoans?",
+            "answer": "Protozoans are single-celled eukaryotic organisms that can move and feed on organic matter. They are often found in aquatic environments and can be free-living or parasitic."
         }
+
     ] 
 }
