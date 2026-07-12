@@ -2,8 +2,8 @@
 
 ## Table of Content
 
-01. Cells: The Fundamental Units of Life (Bookmark: Model Organism - page 26)
-02. Chemical Components of Cells
+01. Cells: The Fundamental Units of Life
+02. Chemical Components of Cells (Bookmark: Chemical Bonds - page 40)
 03. Energy, Catalysis, and Biosynthesis
 04. Protein Structure and Function
 05. DNA and Chromosomes

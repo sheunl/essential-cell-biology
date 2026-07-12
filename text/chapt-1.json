@@ -207,6 +207,46 @@
             "id": 42,
             "question": "What are protozoans?",
             "answer": "Protozoans are single-celled eukaryotic organisms that can move and feed on organic matter. They are often found in aquatic environments and can be free-living or parasitic."
+        },
+        {
+            "id": 43,
+            "question": "What is the full meaning of E. coli?",
+            "answer": "E. coli stands for Escherichia coli, which is a type of bacteria commonly found in the intestines of humans and animals."
+        },
+        {
+            "id": 44,
+            "question": "What is the latin name of Brewer's yeast?",
+            "answer": "The latin name of Brewer's yeast is Saccharomyces cerevisiae."
+        },
+        {
+            "id": 45,
+            "question": "List the different types of model organisms used in cell biology research along with their classification?",
+            "answer": "1. Bacteria: Escherichia coli (E. coli). 2. Eukaryotic microorganisms: Saccharomyces cerevisiae (Brewer's yeast). 3. Plants: Arabidopsis thaliana (Common wall cress). 4. Animals: Mus musculus (mouse), Flies (Fruit fly - Drosophila melanogaster), worms (Nematode worm - Caenorhabditis elegans), and fish (Danio rerio)."
+        },
+        {
+            "id": 46,
+            "question": "What is a nucleotide?",
+            "answer": "A nucleotide is the basic building block of nucleic acids, such as DNA and RNA. It consists of a nitrogenous base, a five-carbon sugar (deoxyribose in DNA and ribose in RNA), and one or more phosphate groups."
+        },
+        {
+            "id": 47,
+            "question": "What are the four types of nitrogenous bases found in DNA?",
+            "answer": "The four types of nitrogenous bases found in DNA are adenine (A), thymine (T), cytosine (C), and guanine (G)."
+        },
+        {
+            "id": 48,
+            "question": "What is a haploid?",
+            "answer": "A haploid is a cell or organism that has a single set of unpaired chromosomes, typically represented as 'n'. In humans, gametes (sperm and egg cells) are haploid, containing 23 chromosomes."
+        },
+        {
+            "id": 49,
+            "question": "What is a diploid?",
+            "answer": "A diploid is a cell or organism that has two complete sets of chromosomes, one from each parent, typically represented as '2n'. In humans, most somatic cells are diploid, containing 46 chromosomes."
+        },
+        {
+            "id": 50,
+            "question": "What are genes",
+            "answer": "Genes are segments of DNA that contain the instructions for building and maintaining an organism. They determine inherited traits and can be passed from parents to offspring."
         }
 
     ] 

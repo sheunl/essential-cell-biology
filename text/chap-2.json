@@ -1,0 +1,11 @@
+{
+    "chapter_num": 2,
+    "chapter_name": "Chemical Components of Cells",
+    "cards": [
+        {
+            "id": 1,
+            "question": "The smallest particle of an element that still retains its distinctive chemical properties is?",
+            "answer": "An atom"
+        }
+    ]
+}
